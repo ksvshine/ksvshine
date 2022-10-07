@@ -8,7 +8,7 @@ Web Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [karthiksenniyappan76@gmail.com](mailto:karthiksenniyappan76@gmail.com)
-* 🚀  I'm currently working on [Star Systems India Private Limited](http://https://starsystems.in/)
+* 🚀  I'm currently working on [Star Systems India Private Limited](https://starsystems.in/)
 
 ### Skills
 
