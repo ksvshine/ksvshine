@@ -4,7 +4,7 @@ Hi 👋 My name is Karthik Senniyappan
 Web Developer
 -------------
 
-4 years of experience in web application development. To be a part of a resourceful and dynamic organisation where I can eﬃciently contribute my skills and abilities, to enhance my knowledge and growth of my career.
+5 years of experience in web application development. To be a part of a resourceful and dynamic organization where I can eﬃciently contribute my skills and abilities, to enhance my knowledge and growth of my career.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [karthiksenniyappan76@gmail.com](mailto:karthiksenniyappan76@gmail.com)
